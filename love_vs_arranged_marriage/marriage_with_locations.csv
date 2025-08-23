@@ -1,0 +1,151 @@
+Age,Gender,Marriage_Type,Education_Level,Occupation,Satisfaction_Level,Years_Known_Before_Marriage,Parental_Approval,Divorced,Children,City,Location
+25,Male,Arranged,Bachelor,Engineer,3,1,Yes,No,Yes,Salem,Fairlands
+32,Female,Love,Master,Artist,4,8,No,No,Yes,Salem,Shevapet
+28,Male,Love,PhD,Teacher,5,7,Yes,No,No,Salem,Seelanaickenpatti
+35,Female,Arranged,High School,Doctor,2,1,Yes,No,Yes,Salem,Hasthampatti
+30,Male,Love,Bachelor,Business,4,6,Yes,No,Yes,Salem,Ammapet
+26,Female,Love,Master,Engineer,3,9,No,No,Yes,Salem,Hasthampatti
+34,Male,Arranged,PhD,Lawyer,2,2,Yes,No,No,Salem,Fairlands
+29,Female,Arranged,Bachelor,Artist,3,0,Yes,No,Yes,Salem,Shevapet
+27,Male,Love,Master,Doctor,4,10,No,No,Yes,Salem,Omalur Road
+31,Female,Love,High School,Lawyer,5,7,Yes,No,No,Salem,Gugai
+36,Male,Arranged,Master,Teacher,4,1,Yes,No,Yes,Salem,Meyyanur
+24,Female,Love,Bachelor,Artist,5,6,No,No,No,Salem,Hasthampatti
+33,Male,Arranged,PhD,Doctor,3,2,Yes,No,Yes,Salem,Shevapet
+29,Female,Love,Master,Engineer,4,8,No,No,Yes,Salem,Alagapuram
+26,Male,Love,High School,Lawyer,2,4,No,No,No,Salem,Sarkar Kollapatti
+31,Female,Arranged,Bachelor,Business,4,0,Yes,No,Yes,Salem,Seelanaickenpatti
+28,Male,Arranged,Master,Engineer,3,1,Yes,No,Yes,Salem,Hasthampatti
+34,Female,Love,PhD,Artist,5,9,No,No,Yes,Salem,Shevapet
+27,Male,Love,Master,Doctor,4,7,Yes,No,Yes,Salem,Meyyanur
+30,Female,Arranged,Bachelor,Lawyer,3,2,Yes,No,No,Salem,Hasthampatti
+23,Male,Love,High School,Artist,5,5,No,No,No,Salem,Shevapet
+37,Female,Arranged,Master,Doctor,2,1,Yes,No,Yes,Salem,Gugai
+26,Male,Arranged,Bachelor,Lawyer,3,0,Yes,No,Yes,Salem,Fairlands
+33,Female,Love,Master,Engineer,4,6,No,No,Yes,Salem,Meyyanur
+29,Male,Love,PhD,Teacher,5,7,Yes,No,Yes,Salem,Suramangalam
+25,Female,Love,Bachelor,Doctor,4,8,No,No,No,Salem,Suramangalam
+32,Male,Arranged,High School,Lawyer,3,1,Yes,No,Yes,Salem,Suramangalam
+28,Female,Arranged,Master,Business,4,2,Yes,No,Yes,Salem,Suramangalam
+30,Male,Love,Master,Artist,5,6,No,No,No,Salem,Kondalampatti
+24,Female,Love,Bachelor,Engineer,4,5,No,No,Yes,Salem,Hasthampatti
+34,Male,Arranged,Bachelor,Doctor,2,1,Yes,No,Yes,Salem,Gugai
+27,Female,Love,PhD,Lawyer,5,10,Yes,No,No,Salem,Shevapet
+31,Male,Love,Master,Engineer,4,7,No,No,Yes,Salem,Omalur Road
+25,Female,Arranged,High School,Teacher,3,1,Yes,No,Yes,Salem,Ammapet
+29,Male,Love,Master,Lawyer,4,6,No,No,No,Salem,Hasthampatti
+36,Female,Arranged,Bachelor,Business,2,2,Yes,No,Yes,Salem,Gugai
+33,Male,Love,PhD,Doctor,5,9,Yes,No,No,Salem,Gugai
+30,Female,Love,Master,Artist,4,7,No,No,Yes,Salem,Kondalampatti
+28,Male,Arranged,High School,Engineer,3,1,Yes,No,Yes,Salem,Hasthampatti
+24,Female,Love,Bachelor,Doctor,5,6,No,No,No,Salem,Alagapuram
+35,Male,Love,Master,Lawyer,4,8,Yes,No,Yes,Salem,Fairlands
+32,Female,Arranged,PhD,Teacher,3,0,Yes,No,Yes,Salem,Meyyanur
+26,Male,Arranged,Bachelor,Business,3,1,Yes,No,Yes,Salem,Suramangalam
+30,Female,Love,Master,Engineer,5,7,No,No,Yes,Salem,Sarkar Kollapatti
+27,Male,Love,PhD,Artist,4,6,Yes,No,No,Salem,Kondalampatti
+25,Female,Love,Master,Lawyer,5,9,No,No,Yes,Salem,Fairlands
+31,Male,Arranged,Bachelor,Engineer,3,2,Yes,No,Yes,Salem,Meyyanur
+29,Female,Arranged,High School,Doctor,4,1,Yes,No,Yes,Salem,Sarkar Kollapatti
+34,Male,Love,Master,Teacher,5,10,No,No,No,Salem,Alagapuram
+28,Female,Love,Bachelor,Artist,4,6,Yes,No,Yes,Salem,Alagapuram
+43,Female,Love,Master,Artist,4,4,Yes,Yes,Yes,Salem,Shevapet
+32,Female,Arranged,Bachelor,Teacher,4,1,Yes,No,No,Salem,Alagapuram
+38,Female,Love,High School,Lawyer,1,7,No,No,No,Salem,Meyyanur
+46,Female,Arranged,High School,Artist,5,3,Yes,No,Yes,Salem,Suramangalam
+49,Female,Arranged,Bachelor,Artist,2,0,Yes,No,Yes,Salem,Meyyanur
+41,Male,Arranged,Master,Nurse,3,1,Yes,Yes,Yes,Salem,Fairlands
+44,Female,Arranged,Master,Teacher,1,2,Yes,No,Yes,Salem,Hasthampatti
+35,Male,Arranged,High School,Teacher,1,2,Yes,Yes,Yes,Salem,Meyyanur
+21,Male,Arranged,Bachelor,Farmer,3,1,Yes,Yes,No,Salem,Fairlands
+26,Male,Arranged,High School,Business,2,0,Yes,No,Yes,Salem,Seelanaickenpatti
+29,Female,Love,PhD,IT Professional,1,4,No,No,Yes,Salem,Suramangalam
+21,Male,Arranged,High School,Nurse,1,3,Yes,Yes,No,Salem,Seelanaickenpatti
+38,Male,Love,Master,Doctor,5,5,Yes,No,Yes,Salem,Seelanaickenpatti
+21,Male,Arranged,Bachelor,Artist,3,3,Yes,No,Yes,Salem,Ammapet
+28,Female,Love,Master,Farmer,3,3,Yes,Yes,Yes,Salem,Gugai
+47,Female,Arranged,Bachelor,Nurse,5,3,Yes,No,Yes,Salem,Ammapet
+32,Male,Love,Bachelor,Teacher,3,8,No,No,Yes,Salem,Meyyanur
+25,Male,Arranged,Master,Artist,1,0,Yes,No,Yes,Salem,Omalur Road
+30,Male,Love,Bachelor,Engineer,2,9,No,Yes,No,Salem,Shevapet
+41,Female,Arranged,PhD,Clerk,4,1,Yes,No,No,Salem,Shevapet
+39,Male,Arranged,Bachelor,Farmer,2,2,Yes,No,Yes,Salem,Fairlands
+48,Female,Arranged,Master,Lawyer,2,0,Yes,Yes,Yes,Salem,Omalur Road
+22,Female,Arranged,Master,Nurse,4,1,Yes,Yes,Yes,Salem,Suramangalam
+32,Female,Arranged,Bachelor,Lawyer,5,0,Yes,No,Yes,Salem,Hasthampatti
+33,Male,Love,Master,Nurse,3,1,Yes,No,Yes,Salem,Gugai
+33,Male,Love,Bachelor,IT Professional,4,10,No,No,Yes,Salem,Seelanaickenpatti
+41,Male,Arranged,High School,Lawyer,3,1,Yes,No,No,Salem,Ammapet
+36,Female,Love,Master,IT Professional,5,10,Yes,Yes,No,Salem,Ammapet
+44,Female,Love,High School,Doctor,2,2,Yes,No,Yes,Salem,Suramangalam
+23,Female,Love,PhD,Lawyer,2,0,Yes,Yes,No,Salem,Seelanaickenpatti
+43,Male,Love,Bachelor,Nurse,3,5,No,No,No,Salem,Fairlands
+23,Male,Love,Bachelor,Clerk,4,5,No,No,Yes,Salem,Hasthampatti
+45,Female,Arranged,PhD,IT Professional,4,0,Yes,No,Yes,Salem,Sarkar Kollapatti
+31,Female,Love,High School,Nurse,2,7,Yes,No,Yes,Salem,Omalur Road
+37,Male,Arranged,PhD,IT Professional,5,1,Yes,No,Yes,Salem,Alagapuram
+28,Male,Arranged,High School,Artist,5,3,Yes,No,Yes,Salem,Suramangalam
+27,Male,Arranged,Master,Teacher,4,0,Yes,No,Yes,Salem,Shevapet
+48,Female,Arranged,High School,Nurse,5,2,Yes,No,Yes,Salem,Alagapuram
+36,Male,Love,High School,IT Professional,4,5,No,No,No,Salem,Sarkar Kollapatti
+24,Female,Arranged,High School,Doctor,2,1,Yes,No,Yes,Salem,Seelanaickenpatti
+46,Male,Love,PhD,Farmer,3,2,Yes,No,No,Salem,Alagapuram
+31,Male,Love,Bachelor,Farmer,4,10,No,No,Yes,Salem,Seelanaickenpatti
+22,Female,Arranged,PhD,Doctor,1,1,Yes,No,Yes,Salem,Sarkar Kollapatti
+42,Male,Arranged,Master,Artist,2,2,Yes,No,No,Salem,Omalur Road
+27,Female,Love,Bachelor,Teacher,1,4,No,No,Yes,Salem,Kondalampatti
+45,Male,Arranged,High School,Teacher,2,1,Yes,No,No,Salem,Sarkar Kollapatti
+34,Male,Arranged,Bachelor,Lawyer,1,3,Yes,No,Yes,Salem,Meyyanur
+37,Male,Love,Master,Clerk,3,2,Yes,Yes,Yes,Salem,Alagapuram
+40,Female,Love,PhD,Lawyer,5,8,No,No,No,Salem,Sarkar Kollapatti
+46,Male,Arranged,High School,IT Professional,5,1,Yes,No,Yes,Salem,Kondalampatti
+37,Male,Love,High School,Engineer,3,2,Yes,Yes,Yes,Salem,Gugai
+28,Female,Arranged,PhD,Engineer,5,1,Yes,Yes,No,Salem,Hasthampatti
+49,Male,Love,High School,Doctor,4,6,No,No,No,Salem,Alagapuram
+38,Male,Arranged,High School,IT Professional,2,3,Yes,No,No,Salem,Fairlands
+33,Female,Love,Master,IT Professional,1,1,Yes,No,Yes,Salem,Sarkar Kollapatti
+45,Male,Love,Bachelor,Clerk,4,6,No,No,No,Salem,Kondalampatti
+39,Female,Arranged,PhD,Clerk,2,2,Yes,No,No,Salem,Gugai
+25,Female,Arranged,High School,Lawyer,5,1,Yes,No,Yes,Salem,Gugai
+21,Female,Arranged,PhD,Business,4,1,Yes,No,No,Salem,Gugai
+35,Male,Love,High School,Business,2,10,No,No,Yes,Salem,Alagapuram
+45,Female,Love,Master,Clerk,3,4,No,Yes,No,Salem,Kondalampatti
+24,Female,Love,Bachelor,Engineer,5,9,No,No,Yes,Salem,Gugai
+50,Female,Arranged,Bachelor,IT Professional,3,0,Yes,No,Yes,Salem,Gugai
+44,Male,Arranged,PhD,Farmer,3,1,Yes,Yes,Yes,Salem,Meyyanur
+37,Male,Arranged,High School,Teacher,4,0,Yes,Yes,No,Salem,Fairlands
+43,Female,Love,Bachelor,IT Professional,2,5,No,No,No,Salem,Suramangalam
+37,Male,Love,High School,Farmer,4,9,No,No,Yes,Salem,Hasthampatti
+38,Male,Love,PhD,Engineer,5,10,Yes,No,Yes,Salem,Omalur Road
+48,Male,Love,Master,Business,5,8,Yes,No,Yes,Salem,Fairlands
+49,Female,Arranged,High School,Farmer,4,0,Yes,No,No,Salem,Sarkar Kollapatti
+38,Male,Arranged,High School,Nurse,3,1,Yes,Yes,No,Salem,Ammapet
+44,Female,Arranged,High School,Business,5,0,Yes,No,No,Salem,Seelanaickenpatti
+50,Female,Arranged,High School,IT Professional,5,2,Yes,Yes,No,Salem,Fairlands
+46,Male,Arranged,Master,Clerk,3,0,Yes,No,No,Salem,Gugai
+22,Male,Love,High School,Doctor,3,4,No,No,Yes,Salem,Gugai
+40,Male,Love,PhD,Doctor,5,5,Yes,No,Yes,Salem,Sarkar Kollapatti
+46,Male,Love,High School,IT Professional,4,5,Yes,No,No,Salem,Shevapet
+43,Male,Love,Bachelor,Nurse,3,10,Yes,No,Yes,Salem,Sarkar Kollapatti
+28,Female,Love,Master,Clerk,3,9,Yes,No,No,Salem,Alagapuram
+44,Male,Arranged,PhD,Doctor,4,1,Yes,No,No,Salem,Suramangalam
+40,Male,Love,Master,IT Professional,2,8,No,Yes,Yes,Salem,Sarkar Kollapatti
+49,Female,Arranged,PhD,Nurse,4,1,Yes,No,Yes,Salem,Sarkar Kollapatti
+26,Female,Love,Master,Lawyer,5,10,Yes,No,Yes,Salem,Alagapuram
+41,Male,Arranged,PhD,Doctor,5,0,Yes,No,Yes,Salem,Fairlands
+23,Male,Arranged,Master,Engineer,4,0,Yes,Yes,No,Salem,Kondalampatti
+24,Female,Arranged,PhD,Clerk,4,0,Yes,Yes,Yes,Salem,Meyyanur
+38,Male,Arranged,High School,Nurse,5,3,Yes,Yes,Yes,Salem,Shevapet
+50,Female,Arranged,High School,Business,2,1,Yes,No,No,Salem,Meyyanur
+49,Female,Arranged,Master,Lawyer,4,3,Yes,Yes,Yes,Salem,Omalur Road
+33,Male,Love,High School,Artist,1,4,No,No,No,Salem,Shevapet
+34,Female,Arranged,Bachelor,Farmer,3,0,Yes,Yes,Yes,Salem,Omalur Road
+49,Male,Love,Master,Nurse,5,7,No,No,No,Salem,Hasthampatti
+43,Female,Love,Master,Business,4,10,Yes,No,Yes,Salem,Meyyanur
+45,Male,Love,Bachelor,Artist,1,6,Yes,Yes,No,Salem,Alagapuram
+39,Male,Arranged,Bachelor,IT Professional,2,1,Yes,No,Yes,Salem,Kondalampatti
+26,Female,Arranged,Bachelor,Lawyer,5,3,Yes,No,Yes,Salem,Kondalampatti
+25,Male,Arranged,PhD,Engineer,2,1,Yes,No,Yes,Salem,Shevapet
+44,Female,Arranged,Bachelor,Lawyer,3,1,Yes,No,No,Salem,Suramangalam
+33,Female,Love,Bachelor,Farmer,4,4,Yes,No,Yes,Salem,Ammapet
+27,Male,Love,Master,Artist,4,2,No,No,No,Salem,Meyyanur
